@@ -8,9 +8,9 @@ A theme for **[Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** 
 
 ## 📷 Screenshots
 
-![[notes_media/README/20faaa4dffbc33f618d2aea8bd6fba74_MD5.png]]
+![Empty Search Box](https://raw.githubusercontent.com/indigofairyx/GoldBox.Theme/main/Flow.Launcher_2024-07-06_04-55-03PM_1000x82.png)
 
-![[notes_media/README/87d8ab8247283a39fa798a5663befbc5_MD5.png]]
+![Search Expanded with Preview](https://raw.githubusercontent.com/indigofairyx/GoldBox.Theme/main/Flow.Launcher_2024-07-06_04-54-15PM_1000x753.png)
 
 ## ✔ Features
 
