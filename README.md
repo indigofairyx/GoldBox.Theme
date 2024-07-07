@@ -37,7 +37,7 @@ You can Copy & Paste this shortcut into explorer. Easy!
 
 If your portable install is somewhere else place it in `FlowLauncher\%app-1.xx.x%\UserData\Themes`
 
-> [!WARNING]  
+> [!IMPORTANT]
 > The `%app-1.18.0%` folder name **will change** with each Flow Launcher update.
 
 - Restart Flow Launcher so it sees the theme in the **Appearance** tab in settings!
