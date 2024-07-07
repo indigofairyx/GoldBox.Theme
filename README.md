@@ -18,7 +18,19 @@ A theme for **[Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** 
 - Large Search Box (Good for Big Screens, I'm on a 48in 4k)
 - Acrylic/Glass/Blur effect on background
 
-## 💾 Installation 
+# 💾 Easy Installation 
+
+- Download & Extract the `Gold Box.xaml` from this [repo](https://github.com/indigofairyx/GoldBox.Theme)
+- Or Save the `.xaml` directly from [Gold Box.xaml](https://raw.githubusercontent.com/indigofairyx/GoldBox.Theme/main/Gold%20Box.xaml) Then save the file using `Ctrl` + `S` from your web browser.
+
+Flow Launcher has a built in feature to open your UserData Folder (see below) place the `.xaml` in 'UserData\Themes`.
+
+![](https://github.com/indigofairyx/GoldBox.Theme/edit/main/Flow.Launcher_2024-07-06_06-53-55PM_1000x738.png)
+
+***
+
+
+## Manual Installation 
 
 - Download & Extract the `Gold Box.xaml` from this [repo](https://github.com/indigofairyx/GoldBox.Theme)
 - Or Save the `.xaml` directly from [Gold Box.xaml](https://raw.githubusercontent.com/indigofairyx/GoldBox.Theme/main/Gold%20Box.xaml) Then save the file using `Ctrl` + `S` from your web browser.
