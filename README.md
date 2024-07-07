@@ -1,7 +1,4 @@
----
-created: 2024-07-06T17:02
-updated: 2024-07-06T18:36
----
+
 # 🎨 Gold Box Flow.Laucher Theme
 
 A theme for **[Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** that I tweaked with thankful inspiration from [CircleDarkBlur.Flow-Launcher](https://github.com/z1nc0r3/CircleDarkBlur.Flow-Launcher)
