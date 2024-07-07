@@ -24,7 +24,7 @@ A theme for **[Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** 
 - Or Save the `.xaml` directly from [Gold Box.xaml](https://raw.githubusercontent.com/indigofairyx/GoldBox.Theme/main/Gold%20Box.xaml) Then save the file using `Ctrl` + `S` from your web browser.
 
 ### For a Stand Standard install place the `.xaml` here...
-
+***
 ```
 %AppData%\FlowLauncher\Themes
 ```
@@ -32,13 +32,13 @@ A theme for **[Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** 
 You can Copy & Paste this shortcut into explorer. Easy!
 
 ### For a Portable Place the `.xaml` here.. 
-
+***
 `C:\Users%YOUR USER NAME%\AppData\Local\FlowLauncher\%app-1.18.0%\UserData\Themes`
 
 If your portable install is somewhere else place it in `FlowLauncher\%app-1.xx.x%\UserData\Themes`
 
 > [!IMPORTANT]
 > The `%app-1.18.0%` folder name **will change** with each Flow Launcher update.
-
+***
 > ***Restart Flow Launcher so it sees the theme in the *Appearance* tab in settings!***
 
