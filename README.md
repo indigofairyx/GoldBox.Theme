@@ -1,7 +1,7 @@
 
 > [!WARNING]
 >
-> This Theme is depreciated. Its not here as an ARCHIVE.
+> This Theme is depreciated. Its no here as an ARCHIVE.
 > 
 > The Flow Launcher devs have changed theming system twice within a year of creating this which as broken it. if you like to use it should work on the older v1.19.5
 
