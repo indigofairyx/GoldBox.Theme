@@ -1,4 +1,11 @@
 
+> [!WARNING]
+>
+> This Theme is depreciated. Its not here as an ARCHIVE.
+> 
+> The Flow Launcher devs have changed theming system twice within a year of creating this which as broken it. if you like to use it should work on the older v1.19.5
+
+
 # 🎨 Gold Box Flow.Laucher Theme
 
 A theme for **[Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** that I tweaked with thankful inspiration from [CircleDarkBlur.Flow-Launcher](https://github.com/z1nc0r3/CircleDarkBlur.Flow-Launcher)
